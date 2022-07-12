@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SzczerbiakJakub
-- 🌱 I’m currently learning c++/python
+- 🌱 I’m currently learning python and c++
 - 📫 How to reach me: by email -> jakub.szczerbiak@gmail.com
 
 <!---
