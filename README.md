@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SzczerbiakJakub
-- 👀 I’m interested in programing, creating websites, business, motorization, bodybuilding and calisthenics.
-- 🌱 I’m currently learning JavaScript and Java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++/python
 - 📫 How to reach me: by email -> jakub.szczerbiak@gmail.com
 
 <!---
